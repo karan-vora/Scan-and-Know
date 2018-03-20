@@ -10,4 +10,4 @@ We've targetted three monuments of **Jaipur** city, for testing purpos.
 To test our product, create a database and copy the contents of database named **scanner** and a sql file of that DB is also provided. 
 Copy the contents of **scanner** and the *sql file* to the created server. 
 
-For any query or related problems, email us at **karanvora73@gmai.com, patelkeval08031998@gmail.com**
+For any query or related problems, email us at **karanvora73@gmail.com, patelkeval08031998@gmail.com**
